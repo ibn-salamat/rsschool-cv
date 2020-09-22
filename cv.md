@@ -26,5 +26,8 @@ and more: https://ibn-salamat.github.io/projects.html
 
 
 My English level: Pre-intermediate. 
+
 I have finished course "Duolingo"
+
 I have finished levels Pre-intermediate, Intermediate in Application Simpler.
+
