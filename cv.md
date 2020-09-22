@@ -9,8 +9,11 @@ Frameworks: Vuejs(Vuex, vue-router), Reactjs(react-router), Redux(thunk, saga), 
 Intruments: VS Code, Firebase, Figma.
 
 My projects:
+
 My portfolio designed by me: https://ibn-salamat.github.io/
+
 My first responsive website: https://ibn-salamat.github.io/projects/Apple/index.html
+
 Project for fun: https://ibn-salamat.github.io/projects/%D0%94%D0%B5%D0%B2%D1%83%D1%88%D0%BA%D0%B0%20%D0%B1%D0%BE%D1%82/index.html
 
 Social network in Vuejs: https://surasai.web.app/
